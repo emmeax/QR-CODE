@@ -1,0 +1,16 @@
+body{
+  background-color:  #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Outfit', sans-serif
+}
+
+.back {
+    text-align: center;
+     background-color: white; /* Optional: Add a background color for visibility */
+    padding: 20px;
+    border-radius: 10px;
+    
+}
